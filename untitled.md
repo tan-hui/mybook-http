@@ -38,3 +38,9 @@ POST的主要目的并不是获取响应的主体内容。
 
 ![](.gitbook/assets/8244809-1e41d962f54df21d-1.png)
 
+#### 管线化
+
+![](.gitbook/assets/8244809-8ab12c86eb142075-1.png)
+
+
+
