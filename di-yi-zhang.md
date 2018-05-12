@@ -27,5 +27,15 @@ description: 本章概述了Web是建立在何种技术之上的，以及HTTP协
 
   等物理可见部分。硬件上的范畴均在链路层的作用范围之内。
 
+#### TCP/IP通信传输示意图:
 
+![](.gitbook/assets/5607010-1.jpg)
+
+#### TCP的三次握手:
+
+![TCP&#x4E09;&#x6B21;&#x63E1;&#x624B;](.gitbook/assets/99880632-1.jpg)
+
+#### **各个协议与HTTP协议:**
+
+![&#x5404;&#x4E2A;&#x534F;&#x8BAE;&#x4E0E;http&#x534F;&#x8BAE;](.gitbook/assets/73210107-1.jpg)
 
